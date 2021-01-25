@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="alias">client</entry>
+<entry key="UDPServer">3003</entry>
+<entry key="TCPServer">3000</entry>
+<entry key="ipServer">localhost</entry>
+<entry key="UDPClient">3001</entry>
+<entry key="TCPClient">3000</entry>
+</properties>
